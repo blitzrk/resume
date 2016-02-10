@@ -1,5 +1,5 @@
 ---
-title: Document Center
+layout: default
 ---
 
 # Resume
