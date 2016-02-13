@@ -2,6 +2,7 @@
 ---
 
 @import 'normalize/import-now';
+@import 'mixins';
 
 $width: 980px;
 
@@ -22,4 +23,14 @@ hr {
 	width: 100%;
     background: #333;
     background-image: linear-gradient(to right, #ccc, #333, #ccc);
-}	
+}
+
+.icon-link { 
+	display: inline-block;
+
+    &:hover .icon path {
+      fill: #333;
+      @include transition(all .2s ease);
+    }
+}
+
