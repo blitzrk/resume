@@ -2,9 +2,6 @@
 layout: resume
 ---
 
-# Resume
+# Ben Krieger
 
-Ben Krieger (@blitzrk)
-
-* (973) 216-3554
-* blitzrk@gmail.com
+I like beer and referential transparency. I dislike low battery warnings and having mutable state everywhere.

@@ -4,7 +4,7 @@
 @import 'normalize/import-now';
 @import 'mixins';
 
-$width: 980px;
+$width: 800px;
 
 body {
 	display: flex;
@@ -25,12 +25,34 @@ hr {
     background-image: linear-gradient(to right, #ccc, #333, #ccc);
 }
 
-.icon-link { 
+.portrait {
+	display: block;
+	height: 100px;
+	width: 100px;
+	margin: 20px auto;
+}
+
+.social {
+	display: flex;
+	justify-content: center;
+	list-style: none;
+	padding: 0;
+}
+
+.social-link { 
 	display: inline-block;
 
     &:hover .icon path {
       fill: #333;
       @include transition(all .2s ease);
     }
+}
+
+main {
+	margin: 0 15px;
+}
+
+h1 {
+	text-align: center;
 }
 
