@@ -1,0 +1,6 @@
+[submodule "normalize"]
+	path = normalize
+	url = https://github.com/JohnAlbin/normalize-scss.git
+[submodule "support-for"]
+	path = support-for
+	url = https://github.com/JohnAlbin/support-for.git
