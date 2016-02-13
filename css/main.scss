@@ -2,56 +2,13 @@
 ---
 
 @import 'normalize/import-now';
-@import 'mixins';
 
-$width: 800px;
-
-body {
-	display: flex;
-	justify-content: center;
-}
-
-article {
-	width: $width;
-	display: flex;
-	flex-direction: column;
-}
-
-hr {
-    border: 0;
-    height: 1px;
-	width: 100%;
-    background: #333;
-    background-image: linear-gradient(to right, #ccc, #333, #ccc);
-}
+@import 'main';
+@import 'social';
 
 .portrait {
 	display: block;
 	height: 150px;
 	width: 150px;
 	margin: 20px auto;
-}
-
-.social {
-	display: flex;
-	justify-content: center;
-	list-style: none;
-	padding: 0;
-}
-
-.social-link { 
-	display: inline-block;
-
-    &:hover .icon path {
-      fill: #333;
-      @include transition(all .2s ease);
-    }
-}
-
-main {
-	margin: 0 15px;
-}
-
-h1 {
-	text-align: center;
 }

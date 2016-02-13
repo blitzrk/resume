@@ -1,0 +1,17 @@
+@import 'mixins';
+
+.social {
+	display: flex;
+	justify-content: center;
+	list-style: none;
+	padding: 0;
+}
+
+.social-link {
+	display: inline-block;
+
+	&:hover .icon path {
+		fill: #333;
+		@include transition(all .2s ease);
+	}
+}

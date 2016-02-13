@@ -1,0 +1,28 @@
+@import 'constants';
+
+body {
+	display: flex;
+	justify-content: center;
+}
+
+main {
+	margin: 0 15px;
+}
+
+article {
+	width: $width;
+	display: flex;
+	flex-direction: column;
+}
+
+h1 {
+	text-align: center;
+}
+
+hr {
+	border: 0;
+	height: 1px;
+	width: 100%;
+	background: #333;
+	background-image: linear-gradient(to right, #ccc, #333, #ccc);
+}
