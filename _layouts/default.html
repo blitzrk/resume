@@ -1,9 +1,16 @@
 <html>
 	{% include head.html %}
 	<body>
-		<a href="https://twitter.com/blitzrk">
-			{% include social/twitter.html %}
-		</a>
-		{{ content }}
+		<article>
+			<header>
+				<a href="https://twitter.com/blitzrk">
+					{% include social/twitter.html %}
+				</a>
+			</header>
+			<hr>
+			<main>
+				{{ content }}
+			</main>
+		</article>
 	</body>
 </html>
