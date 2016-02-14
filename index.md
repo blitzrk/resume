@@ -13,21 +13,24 @@ My dream is to build a programming language/community one day. Everybody is my f
 February 2016 - Present
 
 * Set up RHEL 7 install server
-* Bring Linux boxes into compliance with all gov regs
+* Bring Linux boxes into compliance with all government regulations
 * Set up secure Linux boxes with TechNet connections
 * Automate migration from wiki to Sharepoint
 * Earn Security+ certification
 
-### Co-founder (Paraphin, Inc.)
+### Co-founder/Lead Developer (Paraphin, Inc.)
 
 November 2013 - Present
 
-* Lead software developer for a hardware/software startup
-* Lead a team of 4 junior developers, teaching Node.js, MongoDB along the way
-* Pivots:
+* Lead a team of 4 developers on following projects:
     * Mapping and data analysis for parking solutions (Android)
     * Meetup competitor plus tools for managing meetings (Full-stack JS)
     * VR experiences for the medically confined (Unity)
+* Taught junior developers Node.js and Mongo DB, held group work sessions to improve skill, efficiency, and independence with these tools 
+* Delegated tasks to junior developers, assisted with project management, and developed timelines for product release
+* Designed user interface with emphasis on consumer appeal and smooth transition between mobile and desktop viewing
+* Gave presentations to university organizations and clubs to develop interest and assess consumer needs
+
 
 ### Operations Research Analyst (TRADOC Analysis Center - WSMR)
 
@@ -77,7 +80,7 @@ GPA: 3.61 / 4 (Cum Laude)
 * Favorite languages: Elixir, Elm, Python, ES6, Go, Java
 * Favorite libraries: React, Ecto, Gin (Go), Webpack
 * But it really depends on the problem. Idiomatic/elegant code is like good music. It's subjectively beautiful regardless of your feelings for the genre.
-* Vim > Emacs (irony fully comprehended)
+* That being said, Vim > Emacs 
 
 ## References
 
