@@ -44,11 +44,25 @@ July 2013 - January 2016
 
 ## Education
 
+### New Mexico State University
+
+August 2013 - May 2015
+
+Master of Science in Industrial Engineering
+
+GPA: 3.97 / 4
+
+* Linear/Nonlinear/Integer Programming
+* Algorithm Development for NP-Hard Problems
+* Univariate/Multivariate Statistics
+* Operations Research/Cost Analysis
+* Military Operations Capstone
+
 ### Rensselaer Polytechnic Institute
 
 August 2009 - May 2013
 
-Major: Physics and Mathematics
+Bachelor of Science in Physics and Mathematics
 
 Minor: Computer Science
 
