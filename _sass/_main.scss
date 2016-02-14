@@ -3,6 +3,7 @@
 body {
 	display: flex;
 	justify-content: center;
+	background-color: #E8E8E8;
 }
 
 main {
@@ -17,6 +18,10 @@ article {
 
 h1 {
 	text-align: center;
+}
+
+h2 {
+	text-decoration: underline;
 }
 
 hr {
