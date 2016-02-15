@@ -51,6 +51,9 @@ Master of Science in Industrial Engineering
 
 GPA: 3.97 / 4
 
+* Took classes while working full-time
+* Learned about algorithm development and advanced statistics topics
+
 ### Rensselaer Polytechnic Institute
 
 August 2009 - May 2013
