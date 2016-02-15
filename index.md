@@ -12,11 +12,10 @@ My dream is to build a programming language/community one day. Everybody is my f
 
 February 2016 - Present
 
-* Set up RHEL 7 install server
-* Bring Linux boxes into compliance with all government regulations
-* Set up secure Linux boxes with TechNet connections
-* Automate migration from wiki to Sharepoint
-* Earn Security+ certification
+* Designed, developed, and implemented tools to mass deploy Red Hat 7
+* Owned security for Linux boxes with Classified connections
+* Automated migration from wiki to Sharepoint with Python scripts
+* Security+ certified
 
 ### Co-founder/Lead Developer (Paraphin, Inc.)
 
@@ -52,12 +51,6 @@ Master of Science in Industrial Engineering
 
 GPA: 3.97 / 4
 
-* Linear/Nonlinear/Integer Programming
-* Algorithm Development for NP-Hard Problems
-* Univariate/Multivariate Statistics
-* Operations Research/Cost Analysis
-* Military Operations Capstone
-
 ### Rensselaer Polytechnic Institute
 
 August 2009 - May 2013
@@ -68,11 +61,12 @@ Minor: Computer Science
 
 GPA: 3.61 / 4 (Cum Laude)
 
-* 2 semesters of statistics research with the Neural Stem Cell Institute
-* Major and minor officer positions in Pi Kappa Phi fraternity (ex. Risk Manager)
-* Major and minor officer positions in Rensselaer Music Association (ex. 3x Treasurer)
-* Major and minor officer positions in Hillel (ex. Programming VP)
-* Performed regularly in 3 musical groups in and outside of school
+* 2 semesters of bioinformatics research with the Neural Stem Cell Institute
+    * Made predictions of genes with undiscovered important roles in cerebrum development
+* Chaplain/Event Planner, Risk Manager, House Manager for Pi Kappa Phi fraternity
+* 3-year Treasurer for Rensselaer Music Association
+* Programming Vice President for RPI-Sage Hillel
+* Trombone player in Rensselaer Orchestra, Orchestra 2, Low Brass Ensemble
 
 ## Code Samples
 
@@ -93,7 +87,7 @@ GPA: 3.61 / 4 (Cum Laude)
 
 * Favorite languages: Elixir, Elm, Python, ES6, Go, Java
 * Favorite libraries: React, Ecto, Gin (Go), Webpack
-* But it really depends on the problem. Idiomatic/elegant code is like good music. It's subjectively beautiful regardless of your feelings for the genre.
+* But it really depends on the problem. Idiomatic/elegant code is like good music. When it is good, it is good and the genre is not meaningful.
 * That being said, Vim > Emacs 
 
 ## References
