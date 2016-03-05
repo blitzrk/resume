@@ -4,7 +4,7 @@ layout: resume
 
 # Ben Krieger
 
-My dream is to build a programming language/community one day. Everybody is my friend. Let's do science!
+My dream is to build a programming language and community one day and to become a cicerone. I find jumping into problems completely different from what I have seen before especially thrilling (preferably with people I trust). Software and all the fun that goes along with it comes from solving hard problems as a team.
 
 ## Experience
 
@@ -13,7 +13,7 @@ My dream is to build a programming language/community one day. Everybody is my f
 February 2016 - Present
 
 * Designed, developed, and implemented tools to mass deploy Red Hat 7
-* Owned security for Linux boxes with Classified connections
+* Created custom git server and authentication layer from scratch to transition from SVN
 * Automated migration from wiki to Sharepoint with Python scripts
 * Security+ certified
 
@@ -68,7 +68,6 @@ GPA: 3.61 / 4 (Cum Laude)
     * Made predictions of genes with undiscovered important roles in cerebrum development
 * Chaplain/Event Planner, Risk Manager, House Manager for Pi Kappa Phi fraternity
 * 3-year Treasurer for Rensselaer Music Association
-* Programming Vice President for RPI-Sage Hillel
 * Trombone player in Rensselaer Orchestra, Orchestra 2, Low Brass Ensemble
 
 ## Code Samples
@@ -98,7 +97,5 @@ GPA: 3.61 / 4 (Cum Laude)
 * **Steve Eiserling** - Paraphin Co-founder - seiserling@gmail.com - (575) 680-6414
 * **Kevin Young** - Supervisor TRAC-WSMR - kevin.s.young.civ@mail.mil - (575) 678-3127
 * **Damon Baker** - Co-worker/Mentor TRAC-WSMR - damon.d.baker.civ@mail.mil
-
-&nbsp;
 
 &nbsp;
