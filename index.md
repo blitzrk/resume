@@ -79,7 +79,7 @@ GPA: 3.61 / 4 (Cum Laude)
 * Released build scripts for (cross-) compiling sassc binaries
 * Completed feature requests from users
 
-### Cellular Automata Playground (WIP)
+### Cellular Automata Playground
 
 * [https://github.com/blitzrk/elm-ca-playground](https://github.com/blitzrk/elm-ca-playground)
 * Interactive tool for testing cellular automata rule sets
