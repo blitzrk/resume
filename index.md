@@ -4,8 +4,8 @@ layout: resume
 
 # Ben Krieger
 
-I am a full-stack programmer, interested in learning and doing everything from
-webdev to building CI servers. Outside of work, I am an avid open-source 
+I am a full-stack programmer interested in learning and doing everything from
+webdev to building CI servers. Outside of work I am an avid open-source 
 contributor, trombone player, cook, homebrewer, and woodworker.
 
 ## Experience
@@ -98,7 +98,7 @@ Activities:
 
 * Languages: Python, Java, Go, ES6 (Javascript), Go, Elixir, Elm, Bash
 * Libraries: React, React Router, Redux, Phoenix Framework
-* Preferred environment: Vim |> Tmux |> Mosh
+* Preferred environment: `Vim |> Tmux |> Mosh`
 
 ## References
 
