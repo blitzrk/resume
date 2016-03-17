@@ -22,3 +22,17 @@
 		@include transition(all .2s ease);
 	}
 }
+
+.printonly {
+	display: none;
+}
+
+@media print {
+	.printonly {
+		display: block;
+	}
+
+	.social-link {
+		display: none;
+	}
+}
