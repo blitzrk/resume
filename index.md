@@ -14,10 +14,10 @@ contributor, trombone player, cook, homebrewer, and woodworker.
 
 February 2016 - Present
 
-* Designed, developed, and implemented tools to mass deploy Red Hat 7
+* Led training sessions on git and development flows with git
+* Orchestrated mass deployment of Red Hat 7
 * Created custom git server and authentication layer from scratch to transition from SVN
-* Automated migration from wiki to Sharepoint with Python scripts
-* Security+ certified
+* Automated migration from wiki to Sharepoint with Python and Bash scripts
 
 ### Co-founder/Lead Developer (Paraphin, Inc.)
 
