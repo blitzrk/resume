@@ -102,8 +102,8 @@ Activities:
 
 ## References
 
+* **Nemecio Chavez** - Supervisor TRAC-WSMR - nemecio.r.chavez.civ@mail.mil - (575) 678-4426
 * **Steve Eiserling** - Paraphin Co-founder - seiserling@gmail.com - (575) 680-6414
-* **Kevin Young** - Supervisor TRAC-WSMR - kevin.s.young.civ@mail.mil - (575) 678-3127
 * **Damon Baker** - Co-worker/Mentor TRAC-WSMR - damon.d.baker.civ@mail.mil
 
 &nbsp;
