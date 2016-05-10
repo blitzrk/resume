@@ -10,7 +10,7 @@ contributor, trombone player, cook, homebrewer, and woodworker.
 
 ## Experience
 
-### IT Specialist (TRADOC Analysis Center - WSMR)
+### IT Software Engineer (TRADOC Analysis Center - WSMR)
 
 February 2016 - Present
 
