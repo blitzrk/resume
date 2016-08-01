@@ -38,10 +38,10 @@ February 2016 - August 2016
     Bash for portability
 * Daily tasks included:
   * 3rd line support of user Linux issues with NFS, Samba, SSH, and other
-  * Providing coding support to analysts in R, Python, and SQL
-  * Advocating and teaching modern favored workflows to the combat model dev
-    team, such as git version control and favoring composition over inheritance
-    in Java
+  * Provide coding support to analysts in R, Python, and SQL
+  * Advocate and teach modern favored workflows to the combat model dev team,
+	such as git version control and favoring composition over inheritance in
+    Java
 
 ### Co-founder/Lead Developer (Paraphin, Inc.)
 
@@ -67,11 +67,30 @@ July 2013 - January 2016
 
 * Developed spreadsheet tools for optimizing budget decisions over 5 year
   horizon
-* Advised feature development team for human-in-the-loop combat model by
-  providing open source solutions (Javascript)
-* Fixed bugs and developed features in combat model and tools (Java)
+  * Required dynamic programming to solve 5 successive knapsack problems which
+    each altered the following problem's input
+  * Interacted with MSSQL databases through VBA
 * Worked on R&D team to implement AI for combat actors (Python/Jython)
-* Secret security clearance
+  * The model inextricably tied actors to the physics, inhibiting many
+    optimizations
+  * Allowed for many levels of intelligence to balance runtime penalty with
+    performance requirements
+  * Required a vast expansion of the behavior DSL to allow composition of
+    behaviors
+* Daily tasks included:
+  * Fix bugs and develop features in primary (in-house) combat model and tools (Java)
+    * Track progress and interacted with consumers (integration team) through
+      Jira
+    * Upgrade data visualization tools to work with Java 7
+  * Advise on technical aspects of secondary combat model
+    * Debug cross-browser incompatibilities (as the only dev with JS
+      experience)
+    * Investigate changes in each major release and brief on architectures of
+      new tools
+      * Led to teaching some JS and NoSQL when new tools started using MongoDB
+    * Attend large-scale integration tests and provide feedback to contracted
+      core development team
+  * Maintain a Secret security clearance
 
 ## Education
 
