@@ -6,13 +6,13 @@ layout: resume
 
 I am a full-stack programmer interested in learning and doing everything from
 webdev to building CI servers. Outside of work I am an avid open-source 
-contributor, trombone player, cook, homebrewer, and woodworker.
+contributor, trombone player, cook, homebrewer, and backpacker.
 
 ## Experience
 
 ### IT Software Engineer (TRADOC Analysis Center - WSMR)
 
-February 2016 - Present
+February 2016 - August 2016
 
 * Led training sessions on git and development flows with git
 * Orchestrated mass deployment of Red Hat 7
@@ -21,7 +21,7 @@ February 2016 - Present
 
 ### Co-founder/Lead Developer (Paraphin, Inc.)
 
-November 2013 - Present
+November 2013 - Present (Projects on hold since July 2015)
 
 * Lead a small team of developers on the following projects:
     * Mapping and data analysis for parking solutions (Android)
