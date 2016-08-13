@@ -137,13 +137,15 @@ Activities:
 * Released build scripts for (cross-) compiling sassc binaries
 * Completed feature requests from users
 
-### Project Euler solutions
+### Message Signing CLI Tool
 
-* Hosted on GitLab privately as not to spoil the fun for others
-* Can send git bundle or provide access upon request
-* Solved in Elixir and made algorithms concurrent when it seemed like
-  parallelism would speed up runs taking over 10 minutes
-* Currently solved up to problem 12
+* [https://github.com/blitzrk/SignCLI](https://github.com/blitzrk/SignCLI)
+* Tool for signing any message with an RSA keypair and returning a JSON message
+  with all information needed for verification
+* Has unit and integration test suite, plus full documentation
+* Designed for an ACS code challenge in a 24 hour period
+* http://info.smartperimeter.io/jobs/codechallenge
+* Designed to be easily reworked into a JSON-based microservice with Plug
 
 ## Technologies
 
