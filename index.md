@@ -143,8 +143,8 @@ Activities:
 * Tool for signing any message with an RSA keypair and returning a JSON message
   with all information needed for verification
 * Has unit and integration test suite, plus full documentation
-* Designed for an ACS code challenge in a 24 hour period
-* http://info.smartperimeter.io/jobs/codechallenge
+* Written for an ACS code challenge in a 24 hour period
+  ([http://info.smartperimeter.io/jobs/codechallenge](http://info.smartperimeter.io/jobs/codechallenge))
 * Designed to be easily reworked into a JSON-based microservice with Plug
 
 ## Technologies
